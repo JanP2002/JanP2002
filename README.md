@@ -1,7 +1,7 @@
 ## Hi I'm Jan
  I am particularly interested in Maths and its practical application.   
  Graphs Theory belongs to my sphere of interests.   
-🔭 I’m currently working on AI chat application using Knowlegde Graph.     
+🔭 I’m currently working on AI chat application using Knowledge Graph.     
 🌱 I’m currently learning C#.   
 
 
